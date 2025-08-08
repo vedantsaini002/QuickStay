@@ -30,5 +30,6 @@ A **hotel booking platform** built using **React.js**, designed to provide a sea
 
 ---
 
-## 📂 Project Design
+## 📸 Demo
+
 
