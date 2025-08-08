@@ -32,4 +32,7 @@ A **hotel booking platform** built using **React.js**, designed to provide a sea
 
 ## 📸 Demo
 
+<img width="1889" height="916" alt="Image" src="https://github.com/user-attachments/assets/6f4646d1-7107-4ecd-80e6-27e4ce65a348" />
+
+
 
