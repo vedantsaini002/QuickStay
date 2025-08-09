@@ -26,7 +26,6 @@ A **hotel booking platform** built using **React.js**, designed to provide a sea
 - **Routing:** React Router DOM
 - **State Management:** React Hooks
 - **Icons & UI:** Custom components + utility-first CSS
-- **Backend (Planned/Future):** Node.js, Express.js, MongoDB
 
 ---
 
