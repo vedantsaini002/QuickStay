@@ -1,22 +1,17 @@
-# 🏨 Hotel Booking Website
+# 🏨 QuickStay
 
-A **hotel booking platform** built using **React.js**, designed to provide a seamless experience for users to browse hotels, view details, and make bookings. The platform includes separate views and functionalities for **hotel owners** and **customers**.
+**QuickStay** is a **fully responsive hotel booking platform** built with **ReactJS**, focusing mainly on frontend development to provide a seamless user experience for customers and hotel partners.
 
 ---
 
 ## 🚀 Features
 
-### **For Customers**
-- 🏠 Homepage with **Hero Section**, Featured Destinations, Exclusive Offers, and Testimonials.
-- 🔍 Search and filter hotels by city or other criteria.
-- 📝 View detailed hotel information.
-- 💌 Newsletter subscription section.
-
-### **For Hotel Owners**
-- 📊 Dashboard with hotel listings and management.
-- 🖼 Add, edit, and manage hotel information.
-- 📅 View recent customer searches.
-- 🔔 Manage offers and promotions.
+- 🔹 Responsive UI compatible with desktop, tablet, and mobile devices  
+- 🔹 User authentication via [Clerk](https://clerk.com/) with pre-built sign-in/sign-up components  
+- 🔹 Dynamic hotel listings with detailed room information  
+- 🔹 Admin panel for hotel partners to manage properties and bookings  
+- 🔹 Clean, modular React component architecture for easy maintenance  
+- 🔹 Responsive design using CSS Flexbox and Grid for accessibility and usability 
 
 ---
 
